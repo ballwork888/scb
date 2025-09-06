@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "GraphikThaiLoop";
+  src: url("/fonts/GraphikThaiLoop-Regular-Web.b9e4723.woff2")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "GraphikThai";
+  src: url("/fonts/GraphikThai-Regular-Web.da39641.woff2")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+}
